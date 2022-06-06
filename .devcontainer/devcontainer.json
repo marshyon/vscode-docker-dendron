@@ -1,0 +1,20 @@
+{
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "SatoshiYamamoto.vscode-end-of-line",
+        "donjayamanne.githistory",
+        "dendron.dendron",
+        "dendron.dendron-paste-image",
+        "dendron.dendron-markdown-shortcuts",
+        "dendron.dendron-markdown-preview-enhanced",
+        "dendron.dendron-snippet-maker"
+      ]
+    },
+    "features": {
+      "docker-in-docker": "latest"
+    }
+  },
+  "image": "marshyon/vscode-docker-dendron:0.0.1"  
+}
